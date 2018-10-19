@@ -1,1 +1,14 @@
 # etl
+程序清单
+allAutoJson_4.pl 并发调用保单json生成程序
+pajson_bak8.pl保单json生成程序
+allEndoJson_2.pl并发调用批单json生成程序
+endojson_bak_test_4.pl批单json生成程序
+batchPost_endo_rest.pl批单请求入库API
+batchPost_policy_rest.pl保单请求入库API
+dynsql.pl动态sql生成
+groupListEs.pl保单团单清单推送ES
+groupListEs_Endo.pl批单团单清单推送ES
+groupListInfor.pl团单清单informatica调用
+task_control_ah.pl意健险点火
+task_control_au.pl车险点火
